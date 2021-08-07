@@ -119,7 +119,10 @@ bash main.sh
 
 The code is based on Dmitry Ulyanov's texture_nets.
 
-This repo is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications. Permission is granted to use the arte5 given that you agree to my license terms. Regarding the request for commercial use, please contact me via email (leeseomin@gmail.com)
+This repo is made freely available to academic and non-academic entities for non-commercial purposes 
+such as academic research, teaching, scientific publications. 
+Permission is granted to use the arte5 given that you agree to my license terms. Regarding the request for commercial use, 
+please contact me via email (leeseomin@gmail.com)
 
 
 
