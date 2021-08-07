@@ -1,6 +1,6 @@
 # arte5
 
-### Dependency install on ubuntu 16.04 
+### Dependency install on ubuntu 16.04  + nvidia Pascal gpus (ex. gtx1080ti, gtx1080, gtx1070, gtx1070ti)
 
 
 ```
