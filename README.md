@@ -96,7 +96,7 @@ bash main.sh
 ### output (image3)
  
 
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/2885out.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/2855out.png" width="2000">
 
 
 
