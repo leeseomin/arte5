@@ -42,11 +42,11 @@ https://telegra.ph/Gmic-update-filters-07-26
 
 ```
 
-git clone https://github.com/leeseomin/arte1
+git clone https://github.com/leeseomin/arte5
 
-cd arte1
+cd arte5
 
-mkdir s{1..27}
+mkdir s{1..25}
 
 
 ```
@@ -61,11 +61,7 @@ bash main.sh
 
 ```
 
-###  Input image 
 
-Recommended : classic art, Painting
-
-Not recommended : Image taken with a typical smartphone
 
 
 ###  Results
