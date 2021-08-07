@@ -72,9 +72,9 @@ bash main.sh
 
 ### output (image1)
  
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon4.png" width="2000">
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon5.png" width="2000">
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon6.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/Grainstack_in_the_Sunlight__Snow_Effect_-_Claude_Monetadtoon4.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/Grainstack_in_the_Sunlight__Snow_Effect_-_Claude_Monetadtoon6.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/Grainstack_in_the_Sunlight__Snow_Effect_-_Claude_Monetadtoon9.png" width="2000">
 
 
 
