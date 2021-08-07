@@ -85,9 +85,8 @@ bash main.sh
 
 ### output (image2)
  
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/Antibes_Seen_from_La_Salis_-_Claude_Monetadtoon4.png" width="2000">
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/Antibes_Seen_from_La_Salis_-_Claude_Monetadtoon6.png" width="2000">
-  <img src="https://github.com/leeseomin/arte5/blob/main/out/Antibes_Seen_from_La_Salis_-_Claude_Monetadtoon9.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/monetout.png" width="2000">
+
 
 
 
