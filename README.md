@@ -66,11 +66,11 @@ bash main.sh
 
 ###  Results
 
+### input image1
 
-![alt text](https://github.com/leeseomin/arte1/blob/main/arles.png)
+ <img src="https://github.com/leeseomin/arte5/blob/main/s/11.png" width="700">
 
 
- <img src="https://github.com/leeseomin/arte1/blob/main/degas.png" width="2500">
  
 
 ```  
