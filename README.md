@@ -91,7 +91,7 @@ bash main.sh
 
 ### input image3
 
- <img src="https://github.com/leeseomin/arte5/blob/main/s/monet.png" width="700">
+ <img src="https://github.com/leeseomin/arte5/blob/main/s/2855.png" width="700">
 
 ### output (image3)
  
