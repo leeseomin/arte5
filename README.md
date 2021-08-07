@@ -70,7 +70,11 @@ bash main.sh
 
  <img src="https://github.com/leeseomin/arte5/blob/main/s/11.png" width="700">
 
-
+### output (image1)
+ 
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon4.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon5.png" width="2000">
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/11adtoon6.png" width="2000">
  
 
 ```  
