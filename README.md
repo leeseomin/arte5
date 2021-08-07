@@ -89,6 +89,17 @@ bash main.sh
 
 
 
+### input image3
+
+ <img src="https://github.com/leeseomin/arte5/blob/main/s/monet.png" width="700">
+
+### output (image3)
+ 
+
+  <img src="https://github.com/leeseomin/arte5/blob/main/out/2885out.png" width="2000">
+
+
+
 
 ### input image5
 
