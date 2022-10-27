@@ -113,7 +113,20 @@ bash main.sh
 
 ```  
   
+### make smooth video
+```
+ffmpeg -framerate 1 -pattern_type glob -i '*.png' \
+  -c:v libx264 out.mp4
   
+ffmpeg \
+  -i out.mp4 \
+  -crf 10 \
+  -vf "minterpolate=fps=60:mi_mode=mci:mc_mode=aobmc:me_mode=bidir:vsbmc=1" \
+  smooth_60fps.mp4  
+  
+ffmpeg -i out.mp4 -plays 0  apngout.apng
+  
+```    
 
 ### License
 
